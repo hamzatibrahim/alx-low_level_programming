@@ -1,4 +1,4 @@
-i#include<unistd.h>
+#include<stdio.h>
 /**
  * main - prints the standrad error sandwiched around the  standard output
  *
